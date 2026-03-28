@@ -1,8 +1,9 @@
 # S4D-Lin SSM Hybrid: Fixing Why Mamba Failed in Parameter Golf
 
-**Non-Record Submission (Research Contribution)**
+**PR #1013 | Non-Record Submission (Research Contribution)**
 **Author:** Himanshu Dongre ([@himanshudongre](https://github.com/himanshudongre))
 **Base:** Merged leader PR #549 (1.1194 bpb)
+**Companion:** [JEPA-LM PR #1012](https://github.com/openai/parameter-golf/pull/1012) (the research that preceded this work)
 **Duration:** 3 days of research, ~$47 in compute across local MPS + 8xH100 RunPod
 **Best result:** 1.1499 bpb pre-quantization | 1.1682 bpb post-GPTQ-int5 | **Gap:** +0.049 bpb
 
